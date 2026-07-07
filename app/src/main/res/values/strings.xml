@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">READ NOTES</string>
+    <string name="app_tagline">Read. Remember. Repeat.</string>
+    <string name="offline_title">You\'re offline</string>
+    <string name="offline_subtitle">Looks like your internet took a coffee break.\nWe\'ll be right back once you\'re reconnected.</string>
+    <string name="retry">Try again</string>
+</resources>
